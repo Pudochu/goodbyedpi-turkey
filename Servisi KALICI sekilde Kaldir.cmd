@@ -9,3 +9,5 @@ sc stop "WinDivert"
 sc delete "WinDivert"
 sc stop "WinDivert14"
 sc delete "WinDivert14"
+
+taskkill /f /im goodbyedpi.exe
