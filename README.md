@@ -5,7 +5,7 @@ Turkish optimized GoodbyeDPI fork - DPI bypass tool configured for Turkey with D
 ## 🇹🇷 Türkçe
 
 ### Dosyalar
-- `Servisi Baslat.cmd`: GoodbyeDPI servisini başlatır
+- `ServisiBASLAT.vbs`: GoodbyeDPI servisini başlatır
 - `Servisi KALICI sekilde Kaldir.cmd`: GoodbyeDPI servisini sistemden tamamen kaldırır
 
 ### Kullanım
@@ -20,11 +20,11 @@ Turkish optimized GoodbyeDPI fork - DPI bypass tool configured for Turkey with D
 ## 🇬🇧 English
 
 ### Files
-- `Servisi Baslat.cmd`: Starts the GoodbyeDPI service
+- `ServisiBASLAT.vbs`: Starts the GoodbyeDPI service
 - `Servisi KALICI sekilde Kaldir.cmd`: Completely removes the GoodbyeDPI service from the system
 
 ### Usage
-1. Run `Servisi Baslat.cmd` as administrator to start the service
+1. Run `ServisiBASLAT.vbs` as administrator to start the service
 2. To remove the service, run `Servisi KALICI sekilde Kaldir.cmd` as administrator
 
 ### Important Notes
