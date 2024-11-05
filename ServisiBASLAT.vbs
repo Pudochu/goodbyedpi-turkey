@@ -30,8 +30,8 @@ If Not fso.FileExists(strStartup & "\GoodbyeDPI.lnk") Then
     Set oShellLink = WshShell.CreateShortcut(strStartup & "\GoodbyeDPI.lnk")
     oShellLink.TargetPath = WScript.ScriptFullName
     oShellLink.Save
-    MsgBox "Program başarıyla başlangıca eklendi!" & vbCrLf & vbCrLf & _
-           "Artık bilgisayarınız her açıldığında otomatik çalışacak.", 64, "Bilgi"
+    MsgBox "Program basariyla baslangica eklendi!" & vbCrLf & vbCrLf & _
+    "Artik bilgisayariniz her acildiginda otomatik calisacak.", 64, "Bilgi"
 End If
 
 '------------------------------------------------------------------
